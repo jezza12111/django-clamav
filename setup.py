@@ -6,7 +6,7 @@ with open('README.md') as readme:
 
 setup(
     name="django-clamav",
-    version='0.4.0',
+    version='0.4.1',
     keywords="python, django, clamav, antivirus, scanner, virus, libclamav, clamd",
     description="django-clamav is a django integration with Clamd (Clamav daemon).",
     long_description=readme,
